@@ -1,0 +1,15 @@
+/* 全局字体和基础样式 */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Noto+Sans+SC:wght@400;500&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Noto Sans SC', sans-serif;
+  background-color: #ffffff;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
