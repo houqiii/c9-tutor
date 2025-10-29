@@ -8,6 +8,7 @@
 
     <main>
       <HeroSection />
+      <ResearchSection />
       <ProofSection />
       <ShowcaseSection />
       <ContactSection />
@@ -24,6 +25,7 @@ import HeroSection from './components/HeroSection.vue'
 import ProofSection from './components/ProofSection.vue'
 import ShowcaseSection from './components/ShowcaseSection.vue'
 import ContactSection from './components/ContactSection.vue'
+import ResearchSection from './components/ResearchSection.vue'
 </script>
 
 <style scoped>
